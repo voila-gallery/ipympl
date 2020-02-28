@@ -1,0 +1,7 @@
+name: voila-ipympl
+channels:
+  - conda-forge
+dependencies:
+  - voila=0.1.20
+  - voila-material
+  - ipympl=0.5.1
